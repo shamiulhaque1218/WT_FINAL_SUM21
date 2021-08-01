@@ -18,6 +18,7 @@
 	<?php 
 	$i = 1;
 	foreach($departments as $d){
+		
 		echo "<tr>";
 		  echo "<td>$i</td>";
 		  echo "<td>".$d["name"]."</td>";

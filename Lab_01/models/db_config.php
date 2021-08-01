@@ -2,7 +2,7 @@
 	$db_server="localhost";
 	$db_uname="root";
 	$db_pass="";
-	$db_name="Lab_01";
+	$db_name="lab01";
 	
 	
 	function execute($query){ 

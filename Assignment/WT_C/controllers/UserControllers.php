@@ -92,7 +92,7 @@
  else{
 	$password = $_POST["password"];
 	 }
-	 if(!hasError) {
+	 if(hasError) {
 		if(authenticateUser($uname,$password)) {
 			header("Location: dashboard.php");
 		}
