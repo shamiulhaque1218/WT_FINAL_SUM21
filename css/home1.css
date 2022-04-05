@@ -1,0 +1,47 @@
+body {
+  background-color: 21263d;
+  color: white;
+  font-family: verdana;
+
+ }
+  
+
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 50px;
+}
+
+table1 {
+  color: white;
+  font-family: verdana;
+  font-size: 10px;
+}
+
+
+
+
+p {
+  color: white;
+  font-family: verdana;
+  font-size: 20px;
+}
+p2 {
+  color: white;
+  font-family: verdana;
+  font-size: 60px;
+}
+
+a {
+  color: white;
+  font-family: verdana;
+  font-size: 12px;
+}
+
+h6 {
+  color: white;
+  text-align: right;
+  font-size: 100px;
+}
+
+
